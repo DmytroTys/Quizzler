@@ -3,6 +3,7 @@
 * How to show quiz questions 
 * How to use Swift Structures
 * How to use design patterns and the Model View Controler (MVC)
+* How to check the right answer 
 
 # Screenshots
 ## First question
